@@ -9,12 +9,12 @@ import os
 #Load data
 df = pd.read_csv('clean_open_pubs.csv')
 
+st.title(":red[Location of all Pubs in UK 🍻🍻]")
+
 image = Image.open('image-1.jpg')
 st.image(image)
 
 
-
-st.title(":red[Location of all Pubs in UK 🍻🍻]")
 
 
 location_type = st.selectbox(
