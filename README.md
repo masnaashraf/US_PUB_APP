@@ -2,7 +2,7 @@
 
 
 Task - Open Pub Application
-
+![](https://github.com/masnaashraf/US_PUB_APP/blob/main/image-1.jpg)
 
 Let’s assume you are on a vacation in the United Kingdom with your friends. For fun, you decided to go to the Pubs nearby for some drinks. Google Map is down because of some issues. 
 
