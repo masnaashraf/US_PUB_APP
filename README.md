@@ -1,4 +1,5 @@
-# US_PUB_APP
+# US_PUB_APP   
+Streamlit Application to search for given the postal code or local authority
 
 
 Task - Open Pub Application
